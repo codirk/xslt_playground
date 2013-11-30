@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Adressbuch>
+	<Kunde Name="Helge Strichen"><Adresse><Strasse>Musterstrasse 14</Strasse><PLZ>12345</PLZ><Ort>Hambug</Ort></Adresse></Kunde>
+	<Kunde Name="Anne Wand"><Adresse><Strasse>Sonnenstraße 42</Strasse><PLZ>81001</PLZ><Ort>München</Ort></Adresse></Kunde>
+	<Kunde Name="Clara Fall"><Adresse><Strasse>Aus den Weg 15</Strasse><PLZ>81667</PLZ><Ort>München</Ort></Adresse></Kunde>
+	<Kunde Name="Claire Grube"><Adresse><Strasse>Gibts-Nicht-Weg 37</Strasse><PLZ>67890</PLZ><Ort>Augsburg</Ort></Adresse></Kunde>
+</Adressbuch>
+ 
